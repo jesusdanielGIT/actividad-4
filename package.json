@@ -1,0 +1,29 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesusdanielGIT/actividades.git"
+  },
+  "keywords": [
+    "jesus",
+    "daniel"
+  ],
+  "author": "jesus daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesusdanielGIT/actividades/issues"
+  },
+  "homepage": "https://github.com/jesusdanielGIT/actividades#readme",
+  "dependencies": {
+    "body-parser": "1.20.2",
+    "express": "4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
